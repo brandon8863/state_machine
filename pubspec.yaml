@@ -8,11 +8,11 @@ authors:
   - Trent Grover <trent.grover@workiva.com>
 homepage: https://github.com/Workiva/state_machine
 
-environment:
-  sdk: ^2.5.0
+# environment:
+#   sdk: ^2.5.0
 
 dependencies:
-  w_common:
+  # w_common:
 
 dev_dependencies:
   build_runner:
