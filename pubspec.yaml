@@ -8,8 +8,8 @@ authors:
   - Trent Grover <trent.grover@workiva.com>
 homepage: https://github.com/Workiva/state_machine
 
-# environment:
-#   sdk: ">=1.24.3 <3.0.0"
+environment:
+  sdk: ^2.6.0
 
 dependencies:
   w_common:
